@@ -20,10 +20,10 @@
         "personalIdNumber": "01234567891",
         "mobile": "",
         "mail": "gun1234@skole.vtfk.no",
-        "groupId": "KRAVS:TEST1"
+        "classId": "KRV:TEST1"
     },
     "content": {
-        "year": "2020/2021",
+        "year": "2021/2022",
         "period": {
             "id": 1,
             "nb": "Halvårsvurdering 1. termin",
@@ -32,7 +32,9 @@
         },
         "classes": [
             {
-                "id": "2_TEST/201NOR1208_TESVS@677272",
+                "id": "10131002",
+                "name": "2IDK/SAK1001",
+                "schoolId": "38018",
                 "nb": "Norsk hovedmål, skriftlig",
                 "nn": "Norsk hovudmål, skriftleg",
                 "en": "Norwegian as 1st lang, written"
@@ -54,7 +56,7 @@
         "lastName": "Testen"
     },
     "school": {
-        "id": "GRV",
+        "id": "38034",
         "name": "Greveskogen videregående skole",
         "shortName": "Greveskogen vgs"
     },

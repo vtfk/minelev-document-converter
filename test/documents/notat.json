@@ -20,7 +20,7 @@
         "personalIdNumber": "01234567891",
         "mobile": "",
         "mail": "gun1234@skole.vtfk.no",
-        "groupId": "KRAVS:TEST1"
+        "classId": "KRV:TEST1"
     },
     "content": {
         "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget hendrerit lacus. Cras sit amet sodales massa. Nullam bibendum gravida ligula nec vulputate. Donec sodales sodales sagittis. Aenean nisl velit, porttitor gravida vehicula quis, euismod id tortor. Mauris sed consequat dui. Etiam tempus leo vel aliquam porta. Ut eget maximus dolor.\n\nProin rutrum nisi accumsan, ultrices diam a, gravida augue. Sed et leo lectus. Nunc consequat urna eget magna elementum, eu feugiat diam imperdiet. Integer dolor tellus, sollicitudin et ultrices non, pulvinar eget dui. Fusce diam mi, tempor sed turpis id, congue blandit velit. Cras vitae sapien rhoncus, elementum magna id, scelerisque quam. Quisque pretium arcu at dolor elementum, sit amet lobortis nulla laoreet. Proin euismod at ipsum imperdiet molestie. Mauris non sodales lacus, vel hendrerit lectus. Fusce malesuada vulputate faucibus."
@@ -32,7 +32,7 @@
         "lastName": "Testen"
     },
     "school": {
-        "id": "GRV",
+        "id": "38034",
         "name": "Greveskogen videregående skole",
         "shortName": "Greveskogen vgs"
     },

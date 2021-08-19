@@ -20,10 +20,10 @@
         "personalIdNumber": "01234567891",
         "mobile": "",
         "mail": "gun1234@skole.vtfk.no",
-        "groupId": "KRAVS:TEST1"
+        "classId": "KRV:TEST1"
     },
     "content": {
-        "year": "2020/2021",
+        "year": "2021/2022",
         "period": {
             "id": 1,
             "nb": "Halvårsvurdering 1. termin",
@@ -46,7 +46,7 @@
         "lastName": "Testen"
     },
     "school": {
-        "id": "GRV",
+        "id": "38034",
         "name": "Greveskogen videregående skole",
         "shortName": "Greveskogen vgs"
     },

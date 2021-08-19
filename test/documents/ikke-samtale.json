@@ -20,10 +20,10 @@
         "personalIdNumber": "01234567891",
         "mobile": "",
         "mail": "gun1234@skole.vtfk.no",
-        "groupId": "KRAVS:TEST1"
+        "classId": "KRV:TEST1"
     },
     "content": {
-        "samtale": false
+        "year": "2021/2022"
     },
     "teacher": {
         "username": "tes0101",
@@ -32,7 +32,7 @@
         "lastName": "Testen"
     },
     "school": {
-        "id": "GRV",
+        "id": "38034",
         "name": "Greveskogen videregående skole",
         "shortName": "Greveskogen vgs"
     },
