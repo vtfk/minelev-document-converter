@@ -20,7 +20,7 @@
   "author": "Rune Moskvil Lyngås <rune.moskvil.lyngaas@vtfk.no> (https://github.com/runely)",
   "license": "MIT",
   "dependencies": {
-    "@vtfk/logger": "2.4.1",
+    "@vtfk/logger": "2.5.2",
     "dotenv": "8.2.0",
     "vtfk-schools-info": "1.1.2"
   },
