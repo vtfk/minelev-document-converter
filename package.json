@@ -6,7 +6,8 @@
   "scripts": {
     "test": "standard && ava test/test.js",
     "standard:fix": "standard --fix",
-    "refresh": "rm -rf node_modules/ && rm package-lock.json && npm i"
+    "refresh": "rm -rf node_modules/ && rm package-lock.json && npm i",
+    "publish:npm": "npm publish --access=public"
   },
   "repository": {
     "type": "git",
