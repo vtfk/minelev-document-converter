@@ -116,3 +116,6 @@ dist
 .pnp.*
 
 **/.DS_Store
+
+# ignore converted json files
+test/converted/*.json
