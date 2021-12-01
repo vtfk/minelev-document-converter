@@ -3,7 +3,6 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 module.exports = {
-  PAPERTRAIL_HOSTNAME: process.env.PAPERTRAIL_HOSTNAME || 'minelev-document-converter',
-  PAPERTRAIL_HOST: process.env.PAPERTRAIL_HOST || 'logs.papertrailapp.com',
-  PAPERTRAIL_PORT: process.env.PAPERTRAIL_PORT || 12345
+  PAPERTRAIL_HOST: process.env.PAPERTRAIL_HOST || undefined,
+  PAPERTRAIL_TOKEN: process.env.PAPERTRAIL_TOKEN || undefined
 }
